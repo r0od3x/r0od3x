@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="56" viewBox="0 0 900 56">
+  <defs><linearGradient id="t" x1="0" x2="1"><stop offset="0%" stop-color="#a78bfa"/><stop offset="100%" stop-color="#22d3ee"/></linearGradient></defs>
+  <style>.l { stroke-dasharray:600; stroke-dashoffset:600; animation:draw 2s ease-out forwards } @keyframes draw { to { stroke-dashoffset:0 } }</style>
+  <text x="450.0" y="30" text-anchor="middle" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="24" font-weight="800" letter-spacing="3" fill="url(#t)">MY CONTRIBUTIONS, EATEN BY A SNAKE</text>
+  <line x1="160.0" y1="46" x2="740.0" y2="46" stroke="url(#t)" stroke-width="2" stroke-linecap="round" class="l"/>
+</svg>

@@ -4,11 +4,11 @@
 
 <br/>
 
-<a href="https://github.com/r0od3x"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=A78BFA&center=true&vCenter=true&width=640&lines=Training+neural+networks+that+see+food+%26+predict+health;Orchestrating+LLM+agents+with+LangGraph;Shipping+full-stack+web+%26+mobile+apps;Teaching+a+snake+to+play+itself+%F0%9F%90%8D" alt="typing"/></a>
+<a href="https://github.com/r0od3x"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=A78BFA&center=true&vCenter=true&width=640&lines=Training+neural+networks+that+see+food+%26+predict+health;Orchestrating+LLM+agents+with+LangGraph;Shipping+full-stack+web+%26+mobile+apps;Teaching+a+snake+to+play+itself" alt="typing"/></a>
 
 <br/>
 
-<a href="mailto:roodexg@gmail.com"><img src="https://img.shields.io/badge/Email-roodexg%40gmail.com-7c3aed?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="mailto:ghalbimohamedreda@gmail.com"><img src="https://img.shields.io/badge/Email-ghalbimohamedreda%40gmail.com-7c3aed?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
 </div>
 
@@ -16,11 +16,11 @@
 
 <div align="center"><img src="assets/title-about.svg" width="70%" alt="About me"/></div>
 
-- 🎓 **Engineering student in AI & Data Science** at EMSI (Morocco)
-- 🧠 I build **deep learning models**, **LLM agents & RAG pipelines**, and the **apps** that put them in people's hands
-- 🔬 Final-year project: **food recognition & nutrition estimation** from a single photo (EfficientNet-B3 on Nutrition5K)
-- 🥋 Martial arts practitioner, so I built software for my dojo and for iaido tournaments
-- 🌍 Français · English · العربية
+- **Engineering student in AI & Data Science** at EMSI (Morocco)
+- I build **deep learning models**, **LLM agents & RAG pipelines**, and the **apps** that put them in people's hands
+- Final-year project: **food recognition & nutrition estimation** from a single photo (EfficientNet-B3 on Nutrition5K)
+- Martial arts practitioner, so I built software for my dojo and for iaido tournaments
+- Français · English · العربية
 
 ```python
 class RedaGhalbi:
@@ -69,11 +69,11 @@ class RedaGhalbi:
 
 | Project | What it does | Stack |
 |---|---|---|
-| 🧾 [Gestion Facture](https://github.com/r0od3x/gestionfacture) | Automates customs cession certificates from PDF invoices with OCR | Python · Tesseract · PostgreSQL |
-| ⚔️ [Iaido Scoreboard](https://github.com/r0od3x/iaido-scoreboard) | Full-screen keyboard-driven scoreboard for iaido competitions | Python · Tkinter |
-| 📡 [HM-Helper API](https://github.com/r0od3x/php-api) | Token-secured mock brand servers for a support orchestrator | Laravel 12 · PHPUnit |
-| ✅ [TP8 Todo](https://github.com/r0od3x/TP8-ReactNative) | Todo app with Firebase auth, Firestore sync and offline SQLite | React Native · Expo · Firebase |
-| 🪪 [Carte Étudiant](https://github.com/r0od3x/carte-etudiant) | Digital student ID card | React Native · Expo |
+| [Gestion Facture](https://github.com/r0od3x/gestionfacture) | Automates customs cession certificates from PDF invoices with OCR | Python · Tesseract · PostgreSQL |
+| [Iaido Scoreboard](https://github.com/r0od3x/iaido-scoreboard) | Full-screen keyboard-driven scoreboard for iaido competitions | Python · Tkinter |
+| [HM-Helper API](https://github.com/r0od3x/php-api) | Token-secured mock brand servers for a support orchestrator | Laravel 12 · PHPUnit |
+| [TP8 Todo](https://github.com/r0od3x/TP8-ReactNative) | Todo app with Firebase auth, Firestore sync and offline SQLite | React Native · Expo · Firebase |
+| [Carte Étudiant](https://github.com/r0od3x/carte-etudiant) | Digital student ID card | React Native · Expo |
 
 </details>
 
